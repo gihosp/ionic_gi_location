@@ -16,7 +16,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gihosp/ionic_gi_location"
+    "url": "git+https://github.com/gihosp/ionic_gi_location.git"
   },
   "homepage": "https://github.com/gihosp/ionic_gi_location"
 }
