@@ -12,7 +12,7 @@ declare var window: any;
 ```
 
 ```javascript
-window.plugins.prvn_location.getLatAndLong(function(res){console.log(res)}, function(res){console.log(res)});
+window.plugins.gi_location.getLatAndLong(function(res){console.log(res)}, function(res){console.log(res)});
 ```
 
 ## ionic cordova for adding plugin
