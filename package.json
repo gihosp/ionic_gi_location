@@ -1,0 +1,22 @@
+{
+  "name": "ionic_gi_location",
+  "version": "1.0.7",
+  "description": "ionic plugin for gettting lattitude and longitude",
+  "cordova": {
+    "id": "com.gi.location",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "gi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": ""
+}
