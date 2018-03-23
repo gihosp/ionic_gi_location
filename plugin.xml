@@ -11,6 +11,8 @@
       </feature>
     </config-file>
 <config-file parent="/*" target="AndroidManifest.xml">
+    <uses-feature android:name="android.hardware.location.gps" />
+    <uses-feature android:name=" android.hardware.location.network" />
   <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
   <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 </config-file>
